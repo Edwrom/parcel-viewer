@@ -2,3 +2,5 @@ name: OVRDC
 baseurl: /
 mapboxid: ""
 url: /
+
+theme: jekyll-theme-dinky
